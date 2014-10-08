@@ -1,7 +1,7 @@
 #!/bin/sh
 
 usage(){
-        echo 'Usage: $0 NO_:_MACADDRESS'
+        echo 'Usages: $0 NO_:_MACADDRESS'
         exit 1
 }
 
